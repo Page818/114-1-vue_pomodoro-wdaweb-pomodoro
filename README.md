@@ -37,4 +37,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://github.com/Page818/pomodoro)
+- [GitHub](https://page818.github.io/pomodoro/)
